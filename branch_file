@@ -6,6 +6,8 @@ def age():
     age = int(input("what is your age? " ))
     print("You are " + age + " years old!")
   except:
+    print("Please enter an int")
+        
     
      
 age()  
