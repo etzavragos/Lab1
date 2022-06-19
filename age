@@ -4,3 +4,9 @@ def age():
   age = int(input("what is your age? " ))
   print("You are " + age + " years old!")
 age()  
+
+def helloWorld():
+    	print('Hello World')
+
+
+helloWorld()
