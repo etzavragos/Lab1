@@ -2,18 +2,20 @@
 
 
 def age():
-	try:
-		age = int(input("what is your age? " ))
-		print("You are " + age + " years old!")
-	except:
-		print("Please enter an int")
-	
-    
-     
-age()  
+  try:
+    age = int(input("what is your age? " ))
+    print("You are " + age + " years old!")
+  except:
+    print("Please enter an int")
+
+
+
+age()
 
 def helloWorld():
-	print('Hello World')
+    print('Hello World')
 
 
 helloWorld()
+
+
