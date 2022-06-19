@@ -5,4 +5,9 @@ def age():
   print("You are " + age + " years old!")
 age()  
 
+def helloWorld():
+	print(‘Hello World’)
+
+
+helloWorld()
 
